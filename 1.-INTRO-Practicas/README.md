@@ -1,6 +1,6 @@
 # Semana 1:
 
-<a href="/documentos/1.-Requerimientos.pdf">1. Requerimientos</a>
+<a href="documentos/1.-Requerimientos.pdf">1. Requerimientos</a>
 <br>
 <a href="/documentos/2.-BuyerPersona.pdf">2. Buyer Persona</a>
 <br>
